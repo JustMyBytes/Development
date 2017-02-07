@@ -1,4 +1,4 @@
 Development
 ===========
 
-Misc Android Development Projects
+Misc. Development Projects
